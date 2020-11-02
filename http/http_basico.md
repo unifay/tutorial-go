@@ -1,4 +1,4 @@
-# Http basico en Go
+# Servidor Http basico en Go
 Creamos el archivo http_basico.go con el siguiente contenido:
 ```
 package main
